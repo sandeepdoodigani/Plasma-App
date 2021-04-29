@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  7 11:00:16 2020
 
-@author: Sai Nidhi
-"""
 
 from flask import Flask, render_template, request, redirect, url_for
 import requests
